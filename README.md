@@ -14,4 +14,4 @@ Frontend: HTML, CSS, JavaScript
 
 Deployment: freewebhostmost.com
  Project Link - https://scp.freewebhostmost.com/
-This project aims to deliver a user-friendly, scalable music streaming platform while showcasing full-stack development skills and modern web technologies.
+This project aims to deliver a user-friendly, scalable music streaming platform while showcasing Frontend development skills and modern web technologies.
